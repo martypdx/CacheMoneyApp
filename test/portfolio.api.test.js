@@ -79,7 +79,7 @@ describe('tests out the portfolio api', () => {
     let tokenOne = '';
     let tokenTwo = '';
 
-    // 1) This is pretty sloppy having two users 
+    // 1) This is pretty strange having two users 
     // with repeated code and the rest using a common 
     // function. Just add the token return to the 
     // common function!
